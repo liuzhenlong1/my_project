@@ -1,7 +1,3 @@
-#include <iostream>
-using namespace std;
-
-int main(){
-	cout << "this is test" << endl;
+int fun(int a, int b){
+	return a > b ? a : b;
 }
-
