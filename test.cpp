@@ -6,7 +6,8 @@ int myTest;
 
 int main(){
 	
-	myTest = 6;
+	myTest = 7;
+	int res = myTest - 5;
 	return 0;
 
 
